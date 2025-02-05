@@ -2,7 +2,7 @@
   "name": "selenium_js",
   "version": "1.0.0",
   "description": "Selenium Example with JS",
-  "main": "index.js",
+  "main": "E3_proxy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,10 @@
   "homepage": "https://github.com/DarrynWells/Selenium_JS#readme",
   "dependencies": {
     "selenium-webdriver": "^4.27.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.18.0",
+    "eslint-config-prettier": "^10.0.1",
+    "prettier": "3.4.2"
   }
 }

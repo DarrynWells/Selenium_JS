@@ -1,0 +1,2 @@
+{"timestamp":30077,"category":"browser.usage","name":"interaction","extra":{"widget_id":"tab-close-button","glean_timestamp":"1738104264835","flow_id":"{dc6a8925-9adb-4e8b-abac-0f5a638c2a96}","source":"tabs-bar"}}
+{"timestamp":36758,"category":"browser.usage","name":"interaction","extra":{"widget_id":"cmd-closeWindow","glean_timestamp":"1738104271515","source":"tabs-bar","flow_id":"{dc6a8925-9adb-4e8b-abac-0f5a638c2a96}"}}
